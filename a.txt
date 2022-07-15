@@ -1,6 +1,8 @@
 
 异常问题解决方案
 1.开发中突发零时性任务
+暂存 git stash   使用暂存后删除git stash pop
+只使用暂存 git stash apply  删除暂存  git stash drop
 2.多人开发提交时冲突(忘记先拉取再提交)
 3.代码被别人覆盖
 4.多次提交后回退特定提交前
